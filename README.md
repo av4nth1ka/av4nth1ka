@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avanthika Anand</h1>
-<h3 align="center">A passionate Web Security researcher and CTF player from India</h3>
+<h3 align="center">A passionate Web Security researcher and CTF player from India. I play CTFs with teambi0s and teamshakti.</h3>
 
 <p align="left"> <a href="https://twitter.com/avanthikaanand1" target="blank"><img src="https://img.shields.io/twitter/follow/avanthikaanand1?logo=twitter&style=for-the-badge" alt="avanthikaanand1" /></a> </p>
 
