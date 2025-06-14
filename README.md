@@ -10,7 +10,7 @@
 Currently in my learning phase — taking my time to explore and grow in the world of web security.
 
 </p>
-## Areas of Interest
+<h3>Areas of Interest</h3>
 
 - Java enterprise application vulnerabilities  
 - Static code analysis & source auditing  
