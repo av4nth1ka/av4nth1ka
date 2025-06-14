@@ -40,6 +40,6 @@ Currently in my learning phase — taking my time to explore and grow in the wor
 ### 🌱 A Little More About Me
 
 📚 I love reading fiction when I'm not breaking code — [find me on Goodreads](https://www.goodreads.com/user/show/186181641-avanthika-anand)
-- 🎯 Constantly pushing my limits to grow in security and development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avanthikaanand&show_icons=true&locale=en" alt="avanthikaanand" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=av4nth1ka&show_icons=true&locale=en" alt="av4nth1ka" /></p>
