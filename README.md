@@ -16,11 +16,11 @@ Currently in my learning phase — taking my time to explore and grow in the wor
 - Static code analysis & source auditing  
 - CTFs and hands-on security research 
 
-<p align="left"> <a href="https://twitter.com/avanthikaanand1" target="blank"><img src="https://img.shields.io/twitter/follow/avanthikaanand1?logo=twitter&style=for-the-badge" alt="avanthikaanand1" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/avanthikaanand1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avanthikaanand1" height="30" width="40" /></a>
+<a href="https://x.com/av4nth1ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avanthikaanand1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/avanthika-anand-00b017244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avanthikaanand" height="30" width="40" /></a>
 <a href="https://instagram.com/_avanth1ka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avanth1ka_" height="30" width="40" /></a>
 <a href="https://medium.com/@avanthikaanand1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@avanthikaanand1" height="30" width="40" /></a>
