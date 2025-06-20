@@ -4,7 +4,6 @@
 🎓 MCA student from Kerala, India  
 🔐 CTF Player with [Team bi0s](https://bi0s.in) and [Team Shakti](https://teamshakti.in)  
 💻 Passionate about Java source code analysis, vulnerability research, and enterprise security  
-🌏 Represented India at C2C Japan 🇯🇵 | 🏅 Secured $750 through CTF excellence  
 📚 Lifelong learner, turning curiosity into capability
 
 Currently in my learning phase — taking my time to explore and grow in the world of web security.
@@ -37,7 +36,7 @@ Currently in my learning phase — taking my time to explore and grow in the wor
 
 > *"Grow through what you go through."*
 > 
-### 🌱 A Little More About Me
+### A Little More About Me
 
 📚 I love reading fiction when I'm not breaking code — [find me on Goodreads](https://www.goodreads.com/user/show/186181641-avanthika-anand)
 
