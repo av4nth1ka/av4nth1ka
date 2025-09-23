@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avanthika Anand</h1>
 <p>
   
-🎓 Cybersecurity Postgrad at Amrita University. 
+🎓 Cybersecurity Postgrad at Amrita University.
 🔐 CTF Player with [Team bi0s](https://bi0s.in) and [Team Shakti](https://teamshakti.in)  
 💻 Passionate about Java source code analysis, vulnerability research, and enterprise security  
 📚 Lifelong learner, turning curiosity into capability
